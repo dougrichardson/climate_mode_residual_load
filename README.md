@@ -7,4 +7,5 @@ For Richardson et al 2026 Environ. Res.: Climate https://doi.org/...
 * `03_driver_relationships.ipynb` contains the code for generating Figs 1-4 and 6.
 * `04_capacity_factors.ipynb` contains the code for generating Fig 5.
 * `05_write_to_csv.ipynb` contains the code for outputting data in the format required for the machine learning.
-* `06_model_evaluation.ipynb` contains the code for generating Figs 7 and S1.
+* `06_random_forest_classification.R` contains the script for machine learning predictions of residual load.
+* `07_model_evaluation.ipynb` contains the code for generating Figs 7 and S1.
